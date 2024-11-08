@@ -31,8 +31,7 @@ I'm always open to collaboration on:
 
 ### 📫 How to Reach Me
 - **Email:** [23417dp@gmail.com](mailto:23417dp@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/ayush-pandey-6a711a306])
--
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ayush-pandey-6a711a306/)
 ---
 
 ### 😄 Pronouns
