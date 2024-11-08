@@ -46,6 +46,7 @@ I love solving puzzles, whether they're coding challenges, escape rooms, or brai
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush-pandey047&show_icons=true&theme=radical)
 
 ---
+[![An image of @ayushpandey047's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushpandey047)](https://holopin.io/@ayushpandey047)
 
 <!---
 ayush-pandey047/ayush-pandey047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
